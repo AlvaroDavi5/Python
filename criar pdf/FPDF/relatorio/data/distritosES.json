@@ -1,0 +1,10 @@
+{
+    "id":32,
+    "nome":"Espírito Santo",
+    "regiao":{
+        "id":3,
+        "nome":"Sudeste",
+        "sigla":"SE"
+    },
+    "sigla":"ES"
+}

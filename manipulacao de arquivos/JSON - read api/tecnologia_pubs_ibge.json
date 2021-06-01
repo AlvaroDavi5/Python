@@ -1,0 +1,311 @@
+{
+    "count":357,
+    "items":[
+        {
+            "ano":"2013",
+            "autor":"Mattos, Sérgio Augusto Soares",
+            "chave":287371,
+            "classificacao":"308:6",
+            "id":87371,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=287371",
+            "nomenclatura":"",
+            "titulo":"A Revolução digital e os desafios da comunicação"
+        },
+        {
+            "ano":"1994.",
+            "autor":"Guimarães, Reinaldo Vaz",
+            "chave":211379,
+            "classificacao":"5/6(81)",
+            "id":11379,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=211379",
+            "nomenclatura":"",
+            "titulo":"Avaliação e fomento de C & T no Brasil : propostas para os anos 90 / Reinaldo Guimarães. -"
+        },
+        {
+            "ano":" 1999.",
+            "autor":"Rallet, Alain; Tapia, Jorge Ruben Biton",
+            "chave":26943,
+            "classificacao":"654",
+            "id":6943,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=26943",
+            "nomenclatura":"",
+            "titulo":"Telecomunicações, desregulamentação e convergência tecnológica : uma análise comparada / organizado por Jorge Ruben Biton Tapia, Alain Rallet. -"
+        },
+        {
+            "ano":"1987.",
+            "autor":"",
+            "chave":218808,
+            "classificacao":"334.726",
+            "id":18808,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=218808",
+            "nomenclatura":"",
+            "titulo":"Transnational corporations and technology transfer : effects and policy issues / United Nations Centre on Transnational Corporations. -"
+        },
+        {
+            "ano":"1969",
+            "autor":"Baier, Kurt",
+            "chave":11987,
+            "classificacao":"",
+            "id":1987,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=11987",
+            "nomenclatura":"",
+            "titulo":"Values and the future : the impact of technological change on american values"
+        },
+        {
+            "ano":"1971",
+            "autor":"Williams, Roger, 1942-",
+            "chave":12523,
+            "classificacao":"",
+            "id":2523,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=12523",
+            "nomenclatura":"",
+            "titulo":"Politics and technology"
+        },
+        {
+            "ano":"1995.",
+            "autor":"Bertero, Carlos Osmar, 1937-; Schwartzman, Simon, 1939-",
+            "chave":226640,
+            "classificacao":"5/6(81)",
+            "id":26640,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=226640",
+            "nomenclatura":"",
+            "titulo":"Ciencia e tecnologia no Brasil : politica industrial, mercado de trabalho e instituições de apoio / Simon Schwartzman (coord.) ; Carlos Osmar Bertero ...[et al.]. -"
+        },
+        {
+            "ano":"1996.",
+            "autor":"Hasenclever, Lia; Matesco, Virene",
+            "chave":226087,
+            "classificacao":"330.322(81)",
+            "id":26087,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=226087",
+            "nomenclatura":"",
+            "titulo":"Indicadores de esforço tecnologico : comparações e implicações / Virene Roxo Matesco, Lia Hasenclever. -"
+        },
+        {
+            "ano":"2003",
+            "autor":"Amaral, Roberto, 1939-",
+            "chave":22637,
+            "classificacao":"5/6(81)",
+            "id":2637,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=22637",
+            "nomenclatura":"",
+            "titulo":"Ciência e tecnologia : desenvolvimento e inclusão social / Roberto Amaral. -"
+        },
+        {
+            "ano":"2006",
+            "autor":"Porcaro, Rosa Maria, 1949-",
+            "chave":234884,
+            "classificacao":"316.422(81)",
+            "id":34884,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=234884",
+            "nomenclatura":"",
+            "titulo":"Tecnologia da comunicação e informação e desenvolvimento : políticas e estratégias de inclusão digital no Brasil / Rosa Maria Porcaro. -"
+        },
+        {
+            "ano":"2010.",
+            "autor":"",
+            "chave":249314,
+            "classificacao":"5/6(81)",
+            "id":49314,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=249314",
+            "nomenclatura":"",
+            "titulo":"Plano de ação em ciência, tecnologia e inovação : principais resultados e avanços : 2007-2010 / Ministério da Ciência e Tecnologia. -"
+        },
+        {
+            "ano":"1990.",
+            "autor":"",
+            "chave":226498,
+            "classificacao":"338.22:6(81)",
+            "id":26498,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=226498",
+            "nomenclatura":"",
+            "titulo":"A Política brasileira de ciência e tecnologia 1990/95 / Secretaria da Ciência e Tecnologia. -"
+        },
+        {
+            "ano":"1973.",
+            "autor":"Biato, Francisco Almeida; Figueiredo, Maria Helena Poppe de; Guimarães, Eduardo Augusto de Almeida",
+            "chave":29844,
+            "classificacao":"338.26",
+            "id":9844,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=29844",
+            "nomenclatura":"",
+            "titulo":"A Transferência de tecnologia no Brasil / Francisco Almeida Biato, Eduardo Augusto de Almeida Guimaraes, Maria Helena Poppe de Figueiredo. -"
+        },
+        {
+            "ano":"1967.",
+            "autor":"Kranzberg, Melvin; Pursell, Carroll W.",
+            "chave":13946,
+            "classificacao":"",
+            "id":3946,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=13946",
+            "nomenclatura":"",
+            "titulo":"Technology in Western civilization"
+        },
+        {
+            "ano":"2007",
+            "autor":"",
+            "chave":242114,
+            "classificacao":"5/6(8)",
+            "id":42114,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=242114",
+            "nomenclatura":"",
+            "titulo":"Ciência, tecnologia e inclusão social para o MERCOSUL. -"
+        },
+        {
+            "ano":"1995.",
+            "autor":"Bertero, Carlos Osmar, 1937-; Schwartzman, Simon, 1939-",
+            "chave":225187,
+            "classificacao":"5/6(81)",
+            "id":25187,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=225187",
+            "nomenclatura":"",
+            "titulo":"Science and Technology in Brazil : a new policy for a global World / Simon Schwartzman (coord.) ; Carlos Osmar Bertero ... [et al.]. -"
+        },
+        {
+            "ano":"1983",
+            "autor":"Marcovitch, Jacques, 1947-",
+            "chave":244346,
+            "classificacao":"5/6",
+            "id":44346,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=244346",
+            "nomenclatura":"",
+            "titulo":"Administração em ciencia e tecnologia / coordenação: Prof. Jacques Marcovitch. -"
+        },
+        {
+            "ano":" 1998.",
+            "autor":"",
+            "chave":26851,
+            "classificacao":"5/6(81)",
+            "id":6851,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=26851",
+            "nomenclatura":"",
+            "titulo":"Ciência & tecnologia nos anos 90 : a década do crescimento / Ministério da Ciência e Tecnologia. -"
+        },
+        {
+            "ano":"1996.",
+            "autor":"",
+            "chave":27465,
+            "classificacao":"5/6(81)",
+            "id":7465,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=27465",
+            "nomenclatura":"",
+            "titulo":"Plano plurianual de ciência e tecnologia do Governo Federal : PPA 1996/99 / Ministério da Ciência e Tecnologia. -"
+        },
+        {
+            "ano":"2009",
+            "autor":"",
+            "chave":52639,
+            "classificacao":"338.46:654",
+            "id":2639,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=52639",
+            "nomenclatura":"",
+            "titulo":"Pesquisa de serviços de tecnologia da informação - 2009"
+        },
+        {
+            "ano":"2011.",
+            "autor":"Nascimento, Décio Estevão do",
+            "chave":255760,
+            "classificacao":"308:6",
+            "id":55760,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=255760",
+            "nomenclatura":"",
+            "titulo":"Tecnologia e sociedade : transformações sociais / Décio Estevão do Nascimento, Nanci Stanck da Luz, Marilda Queluz, organizadores."
+        },
+        {
+            "ano":"1972",
+            "autor":"Cardwell, D. S. L. (Donald Stephen Lowell)",
+            "chave":16664,
+            "classificacao":"",
+            "id":6664,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=16664",
+            "nomenclatura":"",
+            "titulo":"Technology, science and history"
+        },
+        {
+            "ano":"1972",
+            "autor":"Beaune, Jean-Claude, 1942-",
+            "chave":16570,
+            "classificacao":"",
+            "id":6570,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=16570",
+            "nomenclatura":"",
+            "titulo":"La technologie"
+        },
+        {
+            "ano":"1970",
+            "autor":"Hodges, Henry, 1920-",
+            "chave":15783,
+            "classificacao":"",
+            "id":5783,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=15783",
+            "nomenclatura":"",
+            "titulo":"Technology in the ancient world."
+        },
+        {
+            "ano":"1984.",
+            "autor":"Araújo Junior, José Tavares de; Erber, Fabio Stefano; Guimarães, Eduardo Augusto de Almeida",
+            "chave":216233,
+            "classificacao":"338.22:6(81)",
+            "id":16233,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=216233",
+            "nomenclatura":"",
+            "titulo":"A politica tecnologica da segunda metade dos anos oitenta / Fabio Stefano Erber, Eduardo Augusto Guimarães [e] Jose Tavares de Araujo Jr. -"
+        },
+        {
+            "ano":"1960",
+            "autor":"",
+            "chave":17120,
+            "classificacao":"",
+            "id":7120,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=17120",
+            "nomenclatura":"",
+            "titulo":"McGraw-Hill encyclopedia of science and technology"
+        },
+        {
+            "ano":"[1971]",
+            "autor":"",
+            "chave":11403,
+            "classificacao":"",
+            "id":1403,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=11403",
+            "nomenclatura":"",
+            "titulo":"The Way things work"
+        },
+        {
+            "ano":"1987.",
+            "autor":"Jaguaribe, Anna Maria",
+            "chave":219024,
+            "classificacao":"338.22:6(81)",
+            "id":19024,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=219024",
+            "nomenclatura":"",
+            "titulo":"A Politica tecnologica e sua articulação com a politica economica : elementos para uma analise da ação do Estado / Anna Maria Jaguaribe. -"
+        },
+        {
+            "ano":"1944.",
+            "autor":"Sá, Paulo",
+            "chave":252441,
+            "classificacao":"6:519.2",
+            "id":52441,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=252441",
+            "nomenclatura":"",
+            "titulo":"A Estatística na tecnologia / Paulo Sá. -"
+        },
+        {
+            "ano":"1983.",
+            "autor":"Guimarães, Fabio Celso",
+            "chave":29995,
+            "classificacao":"6.001.5",
+            "id":9995,
+            "link":"http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=29995",
+            "nomenclatura":"",
+            "titulo":"O mercado de serviços tecnologicos no Brasil / Fabio Celso Guimarães. -"
+        }
+    ],
+    "nextPage":2,
+    "page":1,
+    "previousPage":0,
+    "showingFrom":1,
+    "showingTo":30,
+    "totalPages":12
+}

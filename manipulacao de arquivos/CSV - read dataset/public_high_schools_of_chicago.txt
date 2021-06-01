@@ -1,0 +1,94 @@
+School ID, Name of School, ZIP Code
+609680, Walter Payton College Preparatory High School, 60610
+609722, Manley Career Academy High School, 60612
+609749, Northside College Preparatory High School, 60625
+610244, Michele Clark Academic Prep Magnet High School, 60644
+610394, Uplift Community High School, 60640
+609725, Morgan Park High School, 60643
+610381, Bronzeville Scholastic Academy High School, 60615
+609698, William J Bogan High School, 60652
+609712, Emil G Hirsch Metropolitan High School, 60619
+610501, Austin Polytechnical Academy High School, 60644
+610392, World Language Academy High School, 60623
+610385, Multicultural Academy of Scholarship, 60623
+610535, Mason High School, 60623
+609756, Marie Sklodowska Curie Metropolitan High School, 60632
+609739, George Washington High School, 60617
+610391, Robert Lindblom Math & Science Academy High School, 60636
+609764, Benito Juarez Community Academy High School, 60608
+609713, Hyde Park Academy High School, 60637
+609723, John Marshall Metropolitan High School, 60624
+609737, Friedrich W von Steuben Metropolitan Science High School, 60625
+609745, Southside Occupational Academy High School, 60636
+609754, Chicago Military Academy High School, 60653
+610543, Eric Solorio Academy High School, 60632
+609692, Neal F Simeon Career Academy High School, 60620
+609694, John Hancock College Preparatory High School, 60629
+609695, Roald Amundsen High School, 60625
+609708, Edwin G Foreman High School, 60641
+609676, Paul Laurence Dunbar Career Academy High School, 60616
+609732, Charles P Steinmetz Academic Centre High School, 60634
+609741, Gurdon S Hubbard High School, 60629
+609720, Albert G Lane Technical High School, 60618
+609729, Carl Schurz High School, 60641
+609736, Dyett High School, 60615
+610304, Phoenix Military Academy High School, 60612
+609674, Chicago Vocational Career Academy High School, 60617
+610390, Hyman G Rickover Naval Academy High School, 60660
+609719, Lake View High School, 60613
+609768, Hope College Preparatory High School, 60621
+609761, George H Corliss High School, 60628
+609728, Theodore Roosevelt High School, 60625
+609760, George Washington Carver Military Academy High School, 60627
+609727, Wendell Phillips Academy High School, 60653
+610518, VOISE Academy High School, 60644
+610402, DeVry University Advantage Academy High School, 60618
+609715, Thomas Kelly High School, 60632
+609711, William Rainey Harper High School, 60636
+609707, Paul Robeson High School, 60621
+609709, Gage Park High School, 60629
+609730, Nicholas Senn High School, 60660
+609734, William Howard Taft High School, 60631
+610529, Ogden International High School, 60622
+609738, Lincoln Park High School, 60614
+609691, North-Grand High School, 60639
+610389, Orr Academy High School, 60624
+609702, Richard T Crane Technical Preparatory High School, 60612
+609746, Kenwood Academy High School, 60615
+609682, Ellen H Richards Career Academy High School, 60609
+610499, Collins Academy High School, 60623
+609679, Charles Allen Prosser Career Academy High School, 60639
+609693, George Westinghouse High School, 60624
+609759, Roberto Clemente Community Academy High School, 60622
+609735, Edward Tilden Career Community Academy High School, 60609
+609766, Jacqueline B Vaughn Occupational High School, 60641
+609755, Whitney M Young Magnet High School, 60607
+610357, Spry Community Links High School, 60623
+609751, Dr  Martin Luther King  Jr  College Prep High School, 60653
+609678, William Jones College Preparatory High School, 60605
+610334, Al Raby High School, 60624
+609762, Percy L Julian High School, 60643
+610245, Frederick A Douglass Academy High School, 60644
+609769, Ray Graham Training Center High School, 60616
+610380, Daniel Hale Williams Prep School of Medicine, 60615
+609705, Christian Fenger Academy High School, 60628
+610383, Greater Lawndale High School For Social Justice, 60623
+609740, Wells Community Academy High School, 60622
+609704, David G Farragut Career Academy High School, 60623
+400018, Austin Business and Entrepreneurship Academy High School, 60644
+610524, Alcott High School for the Humanities, 60618
+609710, John M Harlan Community Academy High School, 60628
+609726, Gwendolyn Brooks College Preparatory Academy High School, 60628
+610340, Chicago Academy High School, 60634
+609744, Northside Learning Center High School, 60659
+610513, Air Force Academy High School, 60609
+610502, Marine Military Math and Science Academy , 60612
+610323, New Millennium High School of Health at Bowen, 60617
+609733, Roger C Sullivan High School, 60626
+609718, John F Kennedy High School, 60638
+609716, Kelvyn Park High School, 60639
+609753, Chicago High School for Agricultural Sciences, 60655
+609724, Stephen T Mather High School, 60659
+610297, High School of Leadership at South Shore, 60649
+610506, TEAM Englewood Community Academy High School, 60621
+610384, Infinity Math Science and Technology High School, 60623

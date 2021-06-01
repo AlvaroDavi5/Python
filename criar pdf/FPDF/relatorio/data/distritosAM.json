@@ -1,0 +1,10 @@
+{
+    "id":13,
+    "nome":"Amazonas",
+    "regiao":{
+        "id":1,
+        "nome":"Norte",
+        "sigla":"N"
+    },
+    "sigla":"AM"
+}

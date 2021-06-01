@@ -1,0 +1,10 @@
+{
+    "id":29,
+    "nome":"Bahia",
+    "regiao":{
+        "id":2,
+        "nome":"Nordeste",
+        "sigla":"NE"
+    },
+    "sigla":"BA"
+}

@@ -1,0 +1,46 @@
+DBMS = Database Management System: sistema/software para gerenciar consultas, acessos e mudanças a estruturas de dados
+RDBMS = Relational Database Management System
+
+Bases de Dados Relacionais: armazenam os dados em tabelas (linhas e colunas) e criam uma relação entre cada tabela através de Chaves Públicas e Estrangeiras
+	- Entidades → dados armazenados nas tabelas (linhas da tabela)
+	- Registros → lista ordenada de colunas em uma linha (dados de uma entidade)
+	- Atributos → colunas (espaço para valores específicos de cada registro)
+	- Chaves → relações entre uma tabela e outra através de um ou mais atributos
+		· Primary Key: atributos (colunas) que garantem a unicidade das entidades (linhas)
+		· Foreign Key: atributos que contém valores da PK de outra tabela
+		(uma tabela pode ter apenas 1 PK e várias FK, mas uma PK ou FK pode ser composta por diversas colunas/atributos)
+	- Índices → lista ordenada de valores que apontam para os dados nas tabelas
+	- Integridade Referencial → relação entre as tabelas com base nos seus dados
+
+Bases de Dados Não-Relacionais: armazenam os dados sem uma relação e não necessariamente em tabelas
+
+----------------------------------------------------------------------------
+
+	SQL = Structured Query Language
+			↓
+* RDBMS
+	· DDL = Data Definition Language
+- CREATE
+- ALTER
+- DROP
+	· DML = Data Manipulation Language
+- SELECT
+- INSERT
+- DELETE
+- UPDATE
+	· DCL = Data Control Language
+- GRANT
+- REVOKE
+
+* OLAP
+
+----------------------------------------------------------------------------
+
+	NoSQL = Non-Structured Query Language
+			↓
+* Graph
+* Document
+* Key-Value
+* Column
+
+----------------------------------------------------------------------------

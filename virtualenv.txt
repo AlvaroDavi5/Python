@@ -1,0 +1,15 @@
+
+Para instalar o virtualizador de ambiantes, usar o comando:
+	sudo pip3 install virtualenv
+
+
+Para criar um ambiente virtual, usar comando:
+	python3 -m venv <diretorio>
+		ou
+	virtualenv [opções] <diretorio>
+
+Para ativar um ambiente virtual, entrar no diretório criado e usar comando:
+	source ./bin/activate
+
+Para encerrar o ambiente virtual, usar comando:
+	deactivate

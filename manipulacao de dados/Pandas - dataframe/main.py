@@ -10,6 +10,6 @@ def main():
 	print(dataframe["Elementary, Middle, or High School"]) # printed all dataframe "Elementary, Middle, or High School" column
 	print()
 
-# executar o programa		
+# executar o programa
 if __name__ == "__main__":
 	main()
